@@ -1,0 +1,43 @@
+.block-item{
+    width: 300px;
+    height: 230px;
+    border: 1px solid #5699E8;
+    display: flex;
+    flex-direction: column;
+    line-height: 2;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.word{
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.block-btn{
+    width: 200px;
+    height: 35px;
+    border-radius: 34px;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    margin-top: 10px;
+    padding-right: 40px;
+    background: #2A55F6;
+    color: white;
+    font-size: 15px;
+}
+
+.frame{
+    width: 29px;
+    height: 29px;
+    background: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.frameses{
+    padding-top: 5px;
+    width: 19px;
+}

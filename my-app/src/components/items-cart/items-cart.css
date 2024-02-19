@@ -1,0 +1,22 @@
+.items-cart{
+    width: 130px;
+    height: 110px;
+    border: none;
+    border-radius: 9px;
+    background: #F5F5F5;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    line-height: 1.5;
+    padding-top: 10px;
+}
+
+.items-cart h2 {
+   font-weight: 600;
+   font-size: 26px;
+   color: #5699E8;
+}
+
+.items-cart div {
+    opacity: 60%;
+}

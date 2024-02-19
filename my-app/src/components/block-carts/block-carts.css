@@ -1,0 +1,56 @@
+.p_block-carts {
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 40px;
+}    
+
+.block-carts {
+    width: 1180px;
+    display: flex;
+    position: relative;
+    top: 30px;
+    right: 50px;
+    margin: 0 auto;
+}
+
+.img_block-carts{
+    width: 505px;
+    height: 335px;
+    margin-top: 40px;
+    position: relative;
+    right: 130px;
+    z-index: -1;
+}
+
+.p_carts{
+    font-size: 14px;
+    padding-top: 50px;
+}
+
+.strelka{
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 345px;
+    right: 970px;
+}
+
+.blueimage {
+    width: 500px;
+    position: relative;
+    left: 90px;
+}
+
+.imagetext{
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    color: white;
+}
+
+.strelkaa {
+    width: 35px;
+}
+.strelkaaaa {
+    width: 28px;
+}

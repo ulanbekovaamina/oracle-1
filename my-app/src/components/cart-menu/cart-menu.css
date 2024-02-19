@@ -1,0 +1,38 @@
+.wrap{
+    margin: 0 auto;
+    padding: 0; 
+    max-width: 1100px;
+    display: flex;
+
+}
+
+.cart-menu {
+    margin: 0 auto  ;
+    width: 1280px;
+    margin-top: 190px;
+    padding-right: 290px;
+    position: relative;
+}
+
+.img12{
+    position: absolute;
+    left: 610px;
+    top: 90px;
+    z-index: -6;
+    width: 480px;
+    height: 390px;
+}
+
+.counter{
+    line-height: 1.6;
+}
+
+.count {
+    font-size: 50px;
+}
+
+.counter p {
+    padding-top: 6px;
+    opacity: 60%;
+    font-size: 19px;
+}

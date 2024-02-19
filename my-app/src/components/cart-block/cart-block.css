@@ -1,0 +1,28 @@
+.cart-block{
+    width: 1050px;
+    display: flex;
+    position: relative;
+}
+
+.cart-block .cart-block_text {
+    padding-left: 100px;
+    line-height: 1.5;
+    opacity: 60%;
+}
+
+.work {
+    position: absolute;
+    top: 155px;
+    left: 175px;
+    width: 320px;
+}
+
+.working{
+    width: 440px;
+}
+
+.photo-react{
+    position: absolute;
+    top: 285px;
+    right: 920px;
+}

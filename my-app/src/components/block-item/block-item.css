@@ -1,0 +1,47 @@
+.glavnyi{
+   margin: 0 auto;
+   max-width: 1280px;
+   position: relative;
+
+}
+.block-items {
+    width: 100%;
+    height: 530px;
+    background: #0E0E0E;
+    margin-top: 190px;
+    color: white;
+}
+
+.block-items_cs{
+    width: 845px;
+}
+
+.block-items_css{
+    display: flex;
+    padding-top: 65px;
+    line-height: 1.5;
+}
+ .block-items_css p {
+    opacity: 60%;
+    line-height: 2;
+ }
+
+ .list {
+    position: absolute;
+    width: 300px;
+    left: 980px;
+    top: 160px;
+ }
+
+ .strka{
+    position: relative;
+    left: 220px;
+    top: 120px;
+ }
+
+ .strlka{
+    position: relative;
+    left: 1020px;
+    bottom: 230px;
+  
+ }

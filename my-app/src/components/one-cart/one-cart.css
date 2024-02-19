@@ -1,0 +1,25 @@
+.white {
+    width: 320px;
+    height: 90px;
+    border: none;
+    color: black;
+    background: white;
+    line-height: 1.5;
+    position: relative;
+    top: -70px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.white p {
+    opacity: 60%;
+}
+
+.was{
+    width: 350px;
+}
+
+.wasnot{
+    margin-top: -10px;
+    z-index: 2;
+}

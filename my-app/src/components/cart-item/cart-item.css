@@ -1,0 +1,29 @@
+.cart-item {
+    width: 250px;
+    height: 200px;
+    border: none;
+    text-align: center;
+    line-height: 1.5;
+    padding-top: 15px;
+    margin-top: 40px;
+    background: #F5F5F5;
+}
+
+.cart-item img {
+    width: 50px;
+    height: 50px;
+}
+
+.cart-item  p {
+    padding-top: 15px;
+    font-size: 12px;
+}
+
+.cart-item .cld{
+    font-size: 17px;
+}
+
+.cart-item .could{
+    opacity: 60%;
+
+}
